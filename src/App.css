@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+.currentdate {
+  margin: 20px 0px;
+}
+/* .chart {
+  margin: 0px 500px;
+} */
+.date {
+  display: flex;
+  justify-content: center;
+}
+.margin {
+  margin: 20px;
+}
+
+.done {
+  color: green;
+}
+
+.pending {
+  color: red;
+}
+
+.bslack {
+  color: black !important;
+}
+
+.rc-table-header {
+  border-bottom: 1px solid #000000 !important;
+}
